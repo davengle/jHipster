@@ -69,6 +69,7 @@ public class JHipsterTutorialApp {
             protocol = "https";
         }
         log.info("\n----------------------------------------------------------\n\t" +
+        		"Testing GitHub + Jenkins commit hooks" +
                 "Application '{}' is running! Access URLs:\n\t" +
                 "Local: \t\t{}://localhost:{}\n\t" +
                 "External: \t{}://{}:{}\n\t" +
